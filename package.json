@@ -3,6 +3,7 @@
 	"author": "Wisdom Eleeza",
 	"description": "freeCodeCamp backend development",
 	"keywords": [ "author", "freecodecamp", "description", "keywords" ],
+	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
